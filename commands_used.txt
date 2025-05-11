@@ -1,0 +1,9 @@
+Commands I used: 
+git push 
+git branch
+cd 
+rm -r
+git checkout
+git add .
+git status
+git commit
